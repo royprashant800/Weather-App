@@ -7,6 +7,7 @@ Node.js,
 Express.js,
  HTML,
  CSS,
+ handlebars,
  JavaScript,
  Open weather API.
  
